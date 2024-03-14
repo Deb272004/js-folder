@@ -26,6 +26,7 @@ let stringNumber = String(someNumber)
 
 
                                // operations
+                               
 
 
 
